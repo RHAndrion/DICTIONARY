@@ -32,8 +32,8 @@ DATA={
 "VALVE":"A mechanical device that controls the flow of fluids or gases by opening, closing, or partially obstructing passageways.",
 "WELDING":"The process of joining materials, usually metals or thermoplastics, by melting and fusing them together."
 }
-#INPUT AND OUTPUT: Retrieve definitions using list indexing.
+#INPUT:The user is prompted to enter a word related to engineering terminology.
 while True:
   a = input("Type your word:")
-     #Find the index of the term and print the corresponding definition.
+     #OUTPUT:If the input term exists in the dictionary, the program prints the corresponding engineering definition.
   print(DATA[a])
