@@ -1,5 +1,5 @@
 print("ENGINEERING TERMINOLOGIES DICTIONARY")
-#INPUT: List of Engineering terms with definitions.
+#PROCESS: List of Engineering terms with definitions.
 DATA={
 "ALGORITHM":"A step-by-step procedure or formula for solving a problem, often used in computer programming and automation.",
 "BEAM":"A structural element that primarily resists loads applied laterally to its axis, commonly used in construction.",
